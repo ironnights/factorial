@@ -21,7 +21,7 @@
 После этого в консоли появится запрос:
 
 ```
-Enter the size of the calculation thread pool (N):
+Enter the size of the calculation thread pool:
 ```
 
 Введите нужное количество потоков и нажмите Enter. После этого вы увидите индикатор прогресса, который покажет, что программа работает.
